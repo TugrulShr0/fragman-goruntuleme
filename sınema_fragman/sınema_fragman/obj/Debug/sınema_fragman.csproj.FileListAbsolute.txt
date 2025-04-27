@@ -1,0 +1,10 @@
+C:\Users\Emre\OneDrive\Masaüstü\udemyA-Z C#\sınema_fragman\sınema_fragman\bin\Debug\sınema_fragman.exe.config
+C:\Users\Emre\OneDrive\Masaüstü\udemyA-Z C#\sınema_fragman\sınema_fragman\bin\Debug\sınema_fragman.exe
+C:\Users\Emre\OneDrive\Masaüstü\udemyA-Z C#\sınema_fragman\sınema_fragman\bin\Debug\sınema_fragman.pdb
+C:\Users\Emre\OneDrive\Masaüstü\udemyA-Z C#\sınema_fragman\sınema_fragman\obj\Debug\sınema_fragman.csproj.AssemblyReference.cache
+C:\Users\Emre\OneDrive\Masaüstü\udemyA-Z C#\sınema_fragman\sınema_fragman\obj\Debug\sınema_fragman.Form1.resources
+C:\Users\Emre\OneDrive\Masaüstü\udemyA-Z C#\sınema_fragman\sınema_fragman\obj\Debug\sınema_fragman.Properties.Resources.resources
+C:\Users\Emre\OneDrive\Masaüstü\udemyA-Z C#\sınema_fragman\sınema_fragman\obj\Debug\sınema_fragman.csproj.GenerateResource.cache
+C:\Users\Emre\OneDrive\Masaüstü\udemyA-Z C#\sınema_fragman\sınema_fragman\obj\Debug\sınema_fragman.csproj.CoreCompileInputs.cache
+C:\Users\Emre\OneDrive\Masaüstü\udemyA-Z C#\sınema_fragman\sınema_fragman\obj\Debug\sınema_fragman.exe
+C:\Users\Emre\OneDrive\Masaüstü\udemyA-Z C#\sınema_fragman\sınema_fragman\obj\Debug\sınema_fragman.pdb
